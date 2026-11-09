@@ -6,5 +6,5 @@
 
 ## 🚀 Ejecución
 ```bash
-pip install -r requirements.txt
-python app.py
+pip install -r requisitos.txt
+python aplicacion.py
